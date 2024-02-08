@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kvrolix
-- 👀 I’m interested in everything, just give me some extra time to do all of that.
-- 🌱 I’m currently learning JavaScript
+- 👀 My crush is Java Script, but my side chick is Python.
+
 
 <!---
 Kvrolix/Kvrolix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
