@@ -2,12 +2,12 @@
 <br>🏗 I’m currently working on:<br>Freelance website project for the local garage, using Next.js<br><br>👥 I’m looking to collaborate on:<br>Front-end projects with a focus on UI/UX design and user experience improvements. Open to working with developers and designers to create impactful web applications.<br><br>🤲 I’m looking for help with:<br>Exploring advanced design tools like Illustrator and Photoshop to enhance my web design skills.<br><br>🌱 I’m currently learning:<br>React advanced topics, Next.js and Node.js to become a Full-Stack Developer finally. Improving my design skills using Figma and Adobe suite.<br><br>💬 Ask me about:<br>Front-end development with React, user-centered design principles, and the journey of learning Italian as a third language!<br><br>⚡ Fun fact:<br>I’m a lifelong learner with a passion for languages—I’m fluent in English and Polish, learning Italian and German.
 
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-lubicz-gruzewski-557a0522b) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://klgportfolio.netlify.app/)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
-## Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -17,7 +17,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=MATLAB&logoColor=black) 
 
-## Frameworks
+### Frameworks
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
@@ -28,7 +28,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-## Tools
+### Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
