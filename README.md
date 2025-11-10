@@ -4,7 +4,7 @@
 <br/> 😎🥸
 
 <h3>Second Profile so you can see that I am working...</h3>
-[![Work profile](https://github.com/Kvrolito)]
+https://github.com/Kvrolito
 
 
 ## 🌐 Socials:
