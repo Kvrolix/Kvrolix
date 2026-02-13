@@ -8,7 +8,7 @@ https://github.com/Kvrolito
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-lubicz-gruzewski-557a0522b) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://klgportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-lubicz-gruzewski-557a0522b) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://portfolioklg.netlify.app/)
 
 ## 💻 Tech Stack:
 
